@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 26 22:51:30 2024
 
-@author: warlo
+@author: DIMITRIJE SIMIC
 """
 
 import numpy as np

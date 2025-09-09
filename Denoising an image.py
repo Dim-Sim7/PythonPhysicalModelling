@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 19 19:21:28 2025
 
-@author: warlo
+@author: DIMITRIJE SIMIC
 """
 
 # 9.2 denoising an image LAB 3

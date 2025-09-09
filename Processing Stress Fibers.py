@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 21 19:48:07 2025
 
-@author: warlo
+@author: DIMITRIJE SIMIC
 """
 from scipy.signal import convolve
 import numpy as np

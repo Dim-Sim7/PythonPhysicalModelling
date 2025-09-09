@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 29 19:08:49 2024
 
-@author: warlo
+@author: DIMITRIJE SIMIC
 """
 
 from scipy import optimize
